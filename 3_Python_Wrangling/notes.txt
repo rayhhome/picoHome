@@ -1,0 +1,5 @@
+Notes:
+1. "sudo apt update" to update and refresh repository lists
+2. chmod ### to make file readable, writable, and executable
+3. "python3" to run python program
+4. read output to know how to use file

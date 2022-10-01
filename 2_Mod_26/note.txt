@@ -1,0 +1,6 @@
+Notes:
+1. tr command
+2. find bashrc in /~
+3. add alias in bashrc with keyword alias
+4. apply bashrc using command ". ~/.bashrc"
+5. use | to pass stdout to next command's stdin

@@ -1,0 +1,2 @@
+Notes
+1. Use nano to open file
