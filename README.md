@@ -1,3 +1,3 @@
 # picoHome
-## What are you expecting
-A home for Pico.
+## A home for Pico.
+(What do you expect)
