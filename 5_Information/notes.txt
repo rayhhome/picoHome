@@ -1,0 +1,8 @@
+Notes:
+1. ways to hide informtion in images:
+  a) metadata w/ imagemagick/exiftool
+  b) string w/ strings
+  c) dump w/ xxd
+  d) file in file w/ binwalk
+2. pipe to pass input
+3. base64 -d/-e
