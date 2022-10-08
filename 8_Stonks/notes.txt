@@ -1,0 +1,3 @@
+Notes:
+1. Format string attack %p -- pointers  %s -- strings;
+2. Do not try to print stack as strings, will not work.
