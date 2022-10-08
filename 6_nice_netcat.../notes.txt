@@ -1,0 +1,3 @@
+Notes:
+1. piping to pass input from left to right;
+2. awk '{commands}' input_stuff
