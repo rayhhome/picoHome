@@ -1,0 +1,3 @@
+Notes:
+1. Internet request headers: GET, POST, and HEAD \Parn!!/;
+2. Edit request headers in tamperdev(chrome) and inspector(firefox).

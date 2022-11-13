@@ -1,0 +1,4 @@
+Notes:
+1. Create python sandbox for future use!
+2. Try to filter unnecessary information in program and look for vital weaknesses in code;
+3. / for vim text search, /\<...\> for vim whole word search.

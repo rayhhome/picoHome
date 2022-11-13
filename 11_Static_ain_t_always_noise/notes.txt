@@ -1,0 +1,3 @@
+Notes:
+1. "objdump" in shell to see binary;
+2. Check shell program ltdis.sh.

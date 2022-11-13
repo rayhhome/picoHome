@@ -1,0 +1,4 @@
+Notes:
+1. Factor N to get p and q;
+2. d and e are multiplicative inverse wrt phi(N) = (p - 1)(q - 1);
+3. Get multiplicative inverse with "inverse" and print long as byte string with "long_to_bytes" (Learn to use Crypto package!).
