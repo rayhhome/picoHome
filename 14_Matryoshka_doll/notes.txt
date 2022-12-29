@@ -1,0 +1,3 @@
+Notes:
+1. binwalk to see hidden files in image files;
+2. binwalk -e to extract hidden files.

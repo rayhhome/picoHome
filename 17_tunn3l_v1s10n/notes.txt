@@ -1,0 +1,5 @@
+Notes:
+1. Imagemagick for opening and checking images;
+2. the relationship between image size and dimentions is very important;
+3. open file with open function, 'r' flag for readonly, 'r+' for both writing and reading, 'b' flag for byte operations;
+4. '\x**' for writing bytes!! 
