@@ -1,0 +1,5 @@
+Notes:
+1. 2 * OTP = Decrypt;
+2. print strings of specific length with "character" * length;
+3. convert hex string str into bytes with bytes.fromhex(str);
+4. convert byte string (bytes) into ascii string with str.decode('ASCII').
