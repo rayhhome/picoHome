@@ -1,0 +1,2 @@
+Notes:
+1. use Inspector in browser to view HTML, CSS, Javascript.

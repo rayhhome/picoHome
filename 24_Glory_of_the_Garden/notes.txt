@@ -1,0 +1,2 @@
+Notes:
+1. string -o command helps see strings in binary of files.

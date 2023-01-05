@@ -1,0 +1,2 @@
+Notes:
+1. ascii command to show ascii table.
