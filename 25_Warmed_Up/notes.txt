@@ -1,0 +1,2 @@
+Notes:
+1. bash script command for computation: bc. Convert number base using <echo "obase=a; ibase=b; num" | bc>.

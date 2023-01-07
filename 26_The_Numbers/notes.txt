@@ -1,0 +1,3 @@
+Notes:
+1. python3 to pull up python shell;
+2. ord to show decimal ascii number of character, chr to convert back.

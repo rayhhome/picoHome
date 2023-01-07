@@ -1,0 +1,3 @@
+Notes:
+1. sharkwire follow TCP stream to see stream data as in application layer;
+2. rot13 encryption.
