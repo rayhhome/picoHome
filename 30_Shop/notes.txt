@@ -1,0 +1,2 @@
+Notes:
+1. edge cases (negative nums).

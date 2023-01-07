@@ -1,0 +1,3 @@
+Notes:
+1. G-code for CNC machines, simulate on g-code simulator;
+2. xsel -ib or xclip -sel c to copy to clipboard.

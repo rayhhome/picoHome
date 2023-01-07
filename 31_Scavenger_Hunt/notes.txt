@@ -1,0 +1,4 @@
+Notes:
+1. robots.txt file for google crawler;
+2. .htaccess for apache server;
+3. .DS_Store for Apple storage.
